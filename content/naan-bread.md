@@ -2,7 +2,7 @@
 title: Naan Bread
 date: 2019-04-13
 tags: Bread
-thumbnail: /img/naan.jpg
+thumbnail: img/naan.jpg
 summary: Soft and fluffy home made naan bread which doesn't need you to fire up the oven. Great with curries or tear chunks and dunk in honey butter.
 slug: naan
 ---

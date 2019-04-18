@@ -1,0 +1,46 @@
+
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h1>My Recipes</h1>
+
+<div class="flex three demo">
+
+{% for post in posts %}
+
+    <div>
+
+        <article class="card">
+            <header>
+                <img src="{{ post.thumbnail }}">
+            </header>
+            <footer>
+                <h2>{{ post.title }}</h2>
+                <small>{{ post.date }}</small>
+                <p>
+                    {{ post.summary}}
+                </p>
+                <a class="button" href="posts/{{ post.slug }}.html">Recipe</a>
+                <br>
+                {% set list_of_tags = post.tags.split(",") %}
+                {% for tag in list_of_tags %}
+                    <button class="shyButton mybutton">{{ tag }}</button>
+                {% endfor %}
+            </footer>
+            
+        </article>
+
+    </div>
+
+<!-- 
+    <p>
+            <h2>{{loop.index}}: <a href="posts/{{ post.slug }}.html">{{post.title}}</a> <small>{{post.date}}</small></h2>
+            {{post.summary}}
+        </p> -->
+
+{% endfor %}
+
+</div>
+
+{% endblock %}

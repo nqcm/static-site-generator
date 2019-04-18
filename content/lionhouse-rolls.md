@@ -2,7 +2,7 @@
 title: Lionhouse Dinner Rolls
 date: 2019-04-11
 tags: Bread
-thumbnail: /img/rolls.jpg
+thumbnail: img/rolls.jpg
 summary: Soft and fluffy dinner rolls. Great as a side or in breakfast with coffee.
 slug: lionhouse-rolls
 ---

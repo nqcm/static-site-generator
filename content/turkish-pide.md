@@ -2,7 +2,7 @@
 title: Turkish Cheese Pide
 date: 2019-04-12
 tags: Bread, Savoury
-thumbnail: /img/pide.jpg
+thumbnail: img/pide.jpg
 summary: Traditional Turkish pide stuffed with cheese. Great as an appetizer or for breakfast or lunch.
 slug: turkish-pide
 ---

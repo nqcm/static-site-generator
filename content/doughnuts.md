@@ -2,7 +2,7 @@
 title: Old Fashioned Doughnuts
 date: 2019-04-14
 tags: Sweet
-thumbnail: /img/doughnuts.jpg
+thumbnail: img/doughnuts.jpg
 summary: Old fashioned sugar dusted doughnuts. Better than any store bought doughnuts.
 slug: doughnuts
 ---

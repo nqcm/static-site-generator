@@ -1,8 +1,8 @@
 ---
 title: Honey Challah
-date: 2019-04-18
+date: 2019-04-10
 tags: Bread, Sweet
-thumbnail: /img/challah.jpg
+thumbnail: img/challah.jpg
 summary: A soft and sweet traditional bread infused with honey flavour. 
 slug: honey-challah
 ---
